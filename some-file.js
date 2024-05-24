@@ -6,11 +6,11 @@ var singleQuotedString2 = 'hello';
 
 var doubleQuotedString2 = "hello";
 
-// all lower cases comment
+// All lower cases comment
 doubleQuotedString;
 // Capital letter comment
 singleQuotedString;
-// another all lower cases comment
+// Another all lower cases comment
 singleQuotedString2;
 // Another Capital letter comment
 doubleQuotedString2;
