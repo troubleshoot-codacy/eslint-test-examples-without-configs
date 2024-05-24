@@ -6,27 +6,16 @@ var singleQuotedString2 = 'hello';
 
 var doubleQuotedString2 = "hello";
 
-console.log(doubleQuotedString);
-console.log(singleQuotedString);
-console.log(singleQuotedString2);
-console.log(doubleQuotedString2);
+// all lower cases comment
+doubleQuotedString;
+// Capital letter comment
+singleQuotedString;
+// another all lower cases comment
+singleQuotedString2;
+// Another Capital letter comment
+doubleQuotedString2;
 
-var o = {
-  set a(value) {
-        this.val = value;
-  }
-};
 
-const regex = /[0-9]/;
+var o = "something"
 
-const regex2 = /\d/;
-
-var o = {d: 1};
-Object.defineProperty(o, 'c', {
-  set: function(value) {
-       this.val = value;
-  },
-  get: function() {
-    return this.val;
-  }
-});
+var o = "redeclaring the o"
